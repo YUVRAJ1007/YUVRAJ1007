@@ -1,4 +1,4 @@
-<img align="center" alt="head" width="100%" height="200" src="https://images.picxy.com/cache/2021/6/14/a6d9e4ff62d879fca4b1b08b5f543533.jpg">
+<img align="center" alt="head" width="100%" height="200" src="https://wbsdigital.co.za/wp-content/uploads/2020/07/Software-scaled.jpg">
 <h1 align="center">Hi 👋, I'm Yuvraj</h1>
 
 <h3 align="center">I have passion in coding.</h3>
