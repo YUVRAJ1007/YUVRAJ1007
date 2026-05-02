@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yuvraj&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yuvraj;Software+Engineer+%7C+New+Delhi+%F0%9F%87%AE%F0%9F%87%B3;Builder+%7C+Problem+Solver+%7C+Learner)
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuvraj+%F0%9F%91%8B;Software+Engineer+%7C+New+Delhi;Passionate+about+building+things;Always+learning%2C+always+growing)](https://git.io/typing-svg)
-
-</div>
-
----
 
 ## 🧠 About Me
 
@@ -32,7 +26,11 @@ public class Yuvraj {
 }
 ```
 
----
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +66,11 @@ public class Yuvraj {
 
 </div>
 
----
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -84,7 +86,11 @@ public class Yuvraj {
   <img src="https://streak-stats.demolab.com?user=YUVRAJ1007&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
----
+<div align="center">
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+</div>
 
 ## 🌐 Let's Connect
 
@@ -96,14 +102,10 @@ public class Yuvraj {
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 *"First, solve the problem. Then, write the code." – John Johnson*
-
-![Profile Views](https://komarev.com/ghpvc/?username=YUVRAJ1007&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
