@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👨‍💻 Hey, I'm Yuvraj! 👋
-### Software Engineer · New Delhi, India 🇮🇳
-### 🚀 Open to New Opportunities
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionate+about+building+things+%F0%9F%94%A5;Writing+clean+%26+scalable+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%93%88)](https://git.io/typing-svg)
-
----
-⚡ &nbsp;&nbsp; `Code` &nbsp;&nbsp;|&nbsp;&nbsp; `Build` &nbsp;&nbsp;|&nbsp;&nbsp; `Ship` &nbsp;&nbsp;|&nbsp;&nbsp; `Repeat`
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yuvraj&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yuvraj+%F0%9F%91%8B;Software+Engineer+%7C+New+Delhi;Passionate+about+building+things;Always+learning%2C+always+growing)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## 🧠 About Me
 
@@ -73,9 +73,9 @@ public class Yuvraj {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YUVRAJ1007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true&cache_seconds=1800" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUVRAJ1007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff&cache_seconds=1800" height="165"/>
 </div>
 
 <br/>
@@ -100,10 +100,10 @@ public class Yuvraj {
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-🔥 &nbsp; `Always building. Always learning.` &nbsp; 🔥
+*"First, solve the problem. Then, write the code." – John Johnson*
 
-*"First, solve the problem. Then, write the code."*
+![Profile Views](https://komarev.com/ghpvc/?username=YUVRAJ1007&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
