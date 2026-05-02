@@ -1,8 +1,14 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yuvraj;Software+Engineer+%7C+New+Delhi+%F0%9F%87%AE%F0%9F%87%B3;Builder+%7C+Problem+Solver+%7C+Learner)
+# 👨‍💻 Hey, I'm Yuvraj! 👋
+### Software Engineer · New Delhi, India 🇮🇳
+### 🚀 Open to New Opportunities
 
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Passionate+about+building+things+%F0%9F%94%A5;Writing+clean+%26+scalable+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%93%88)](https://git.io/typing-svg)
+
+---
+⚡ &nbsp;&nbsp; `Code` &nbsp;&nbsp;|&nbsp;&nbsp; `Build` &nbsp;&nbsp;|&nbsp;&nbsp; `Ship` &nbsp;&nbsp;|&nbsp;&nbsp; `Repeat`
+---
 
 </div>
 
@@ -26,11 +32,7 @@ public class Yuvraj {
 }
 ```
 
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
+---
 
 ## 🛠️ Tech Stack
 
@@ -66,11 +68,7 @@ public class Yuvraj {
 
 </div>
 
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
+---
 
 ## 📊 GitHub Stats
 
@@ -86,11 +84,7 @@ public class Yuvraj {
   <img src="https://streak-stats.demolab.com?user=YUVRAJ1007&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-
-![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
+---
 
 ## 🌐 Let's Connect
 
@@ -102,10 +96,14 @@ public class Yuvraj {
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+### 💜 Thanks for visiting!
+
+🔥 &nbsp; `Always building. Always learning.` &nbsp; 🔥
+
+*"First, solve the problem. Then, write the code."*
 
 </div>
